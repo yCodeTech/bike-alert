@@ -1,0 +1,16 @@
+{
+	"name": "bike-alert",
+	"version": "1.0.0",
+	"main": "main.js",
+	"scripts": {
+		"watch": "sass --watch scss/main.scss:css/main.css --load-path=node_modules",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"sass": "^1.72.0"
+	}
+}

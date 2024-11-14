@@ -1,0 +1,7 @@
+.vscode
+.env
+vendor
+node_modules
+*.sql
+.htaccess
+phpinfo.php

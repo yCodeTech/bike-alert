@@ -1,0 +1,24 @@
+section:not([id*=report]) {
+  height: calc(100vh - 112px);
+}
+
+.btn-lg {
+  padding: 2rem;
+  font-size: 1.5rem;
+}
+
+nav .navbar-nav {
+  gap: 1rem;
+}
+
+input.disabled {
+  pointer-events: none;
+}
+
+.required::after {
+  content: "*";
+  color: red;
+  margin-left: 5px;
+}
+
+/*# sourceMappingURL=main.css.map */
